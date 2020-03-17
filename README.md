@@ -1,6 +1,6 @@
 # Meu Primeiro Repositório
 
-![](../techtrilha.png)
+![](techtrilha.png)
 
 ## Instalação
 
