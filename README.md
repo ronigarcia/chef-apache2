@@ -1,6 +1,6 @@
 # Meu Primeiro Repositório
 
-![](./TechTrilhaFundoPreto.jpg)
+![](./TechTrilha.jpg)
 
 ## Instalação
 
