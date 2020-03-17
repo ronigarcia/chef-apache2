@@ -1,6 +1,6 @@
 # Meu Primeiro Repositório
 
-![](./techtrilha.png)
+![bgcolor="#d0d0d0"](./TechTrilhaH.png)
 
 ## Instalação
 
